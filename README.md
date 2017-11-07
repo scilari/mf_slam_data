@@ -13,14 +13,14 @@ and [here](http://ieeexplore.ieee.org/abstract/document/6766512/)).
 
 ## Format for relevant fields
 Column numbering starting from 1.
-## Raw mapping and validation data
+### Raw mapping and validation data
 * Odometry x and y, mm (1-2)
 * Odometry heading, angles (4)
 * Odometry distance, mm (5)
 * Magnetometer data, uT multiplied by 32 (6-8)
 * Time stamp (18)
 * Space bar press indicator (17)
-## Processed 2Hz SLAM control data
+### Processed 2Hz SLAM control data
 * Forward translation, m (1)
 * Heading change, radians (2)
 * Magnetic data, uT (3-5)
