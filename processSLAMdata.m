@@ -1,6 +1,7 @@
 close all
 clear all
-filename = 'cse_lobby_2011-03-27.txt';
+%filename = 'cse_lobby_2011-03-27.txt';
+filename = 'discus_center_2011-03-26.txt';
 
 data = load(filename);
 

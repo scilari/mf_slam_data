@@ -17,7 +17,7 @@ Column numbering starting from 1.
 * Odometry x and y, mm (1-2)
 * Odometry heading, angles (4)
 * Odometry distance, mm (5)
-* Magnetometer data, uT scaled by 32 and y and z multiplied by -1 (6-8)
+* Magnetometer data, uT scaled by 32 (or 8), and y and z multiplied by -1 (6-8)
 * Time stamp (18)
 * Space bar press indicator (17)
 ### Processed 2Hz SLAM control data
