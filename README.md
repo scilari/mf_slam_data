@@ -24,4 +24,4 @@ Column numbering starting from 1.
 * Forward translation, m (1)
 * Heading change, radians (2)
 * Magnetic data, uT (3-5)
-* Time stamp, s(6)
+* Time stamp, s (6)
