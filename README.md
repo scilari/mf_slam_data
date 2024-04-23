@@ -32,14 +32,14 @@ SLAM trajectories          |  Corresponding magnetometer readings | Validation d
 * Downsampled 2Hz data for selected data sets (contains produced robot control and MF readings)
 
 ## Format for original data fields
-Column numbering starting from 1.
+Column numbering starting from 1 (for included MATLAB script).
 ### Raw mapping and validation data (original format)
 * Odometry x and y, mm (1-2)
 * Odometry heading, angles (4)
 * Odometry distance, mm (5)
 * Magnetometer data, uT scaled by 32 (or 8), and y and z multiplied by -1 (6-8)
-* Time stamp (18)
-* Space bar press indicator (17)
+* Space bar press indicator (18)
+* Time stamp (19)
 ### Processed 2Hz SLAM control data (updated to CSV)
 * Forward translation, m (1)
 * Heading change, radians (2)
