@@ -9,7 +9,7 @@ SLAM trajectories          |  Corresponding magnetometer readings | Validation d
 ![SLAM trajectory](./figures/slam_trajectory.png)  |  ![SLAM FM](./figures/slam_mf.png) | ![image info](./figures/validation_loop_closures.png)
 
 ## Contents
-### Processed csv files `data/converted_csv`
+### Processed csv files `data/processed_csv`
 * Original data converted to csv format easily readable by modern tools, such as Pandas.
   * Conversion script in `notebooks/process_raw_data.ipynb`
 * Named columns and only relevant fields left:
