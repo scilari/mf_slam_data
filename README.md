@@ -1,7 +1,7 @@
 Magnetic field data for SLAM
 ============================
 This repository contains magnetic field (MF) data collected in 2010-2011 with iRobot Create and MicroMag 3-axis magnetometer to perform MF-based SLAM. The data is used in experiments in my PhD research and the related MF SLAM papers 
-(e.g. [here](http://ieeexplore.ieee.org/abstract/document/6088632/)
+(e.g. [here](https://oulurepo.oulu.fi/handle/10024/36321), [here](http://ieeexplore.ieee.org/abstract/document/6088632/),
 and [here](http://ieeexplore.ieee.org/abstract/document/6766512/)), and published for reproducibility.
 
 SLAM trajectories          |  Corresponding magnetometer readings | Validation data (loop closures)
